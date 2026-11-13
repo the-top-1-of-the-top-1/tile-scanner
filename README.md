@@ -2,6 +2,8 @@
 
 Small overlay that reads the game's `EE.log` and shows which rooms the current map has, rated best, good or avoid. It only reads the log file.
 
+> **Warning:** This program is not official and is not affiliated with or endorsed by DE (Digital Extremes). It is a third-party tool, so use it at your own risk and responsibly.
+
 ## Requirements
 
 - Python 3.10 or newer
